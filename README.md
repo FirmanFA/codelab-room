@@ -14,3 +14,6 @@ Dalam codelab, terdapat sebuah class Repository yang digunakan untuk berkomunika
 
 ### ViewModel
 Dalam codelab, terdapat sebuah class viewModel yang berguna untuk memberi data kepada tampilan/UI dan memberi sebuah ketahanan terhadap perubahan konfigurasi dari UI itu sendiri.
+
+### ListAdapter
+Dalam codelab, terdapat sebuah implementasi ListAdapter dalam sebuah adapter, ini merupakan sebuah class bawaan unutk memudahkan dalam menghandle diffutil dan list dari datanya
